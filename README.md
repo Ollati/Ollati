@@ -3,5 +3,7 @@ Estou atualmente me aprofundando em Python e já posso ser considerado um inicia
 
 Sou técnico em Eletroeletrônica e um Autodidata excelênte em matemática.
 
+Email para contato: affssemks@gmail.com
+
 
 
