@@ -2,7 +2,6 @@
 <html lang="pt-BR">
     <head>
         <meta charset="utf-8">
-        <title>Teste</title>
         <style> #teste_cor {background: blue }  </style>
     </head>
     <body>
