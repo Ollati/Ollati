@@ -2,8 +2,7 @@
 <html lang="pt-BR">
     <head>
         <meta charset="utf-8">
-        <span style="color:red;">Texto Vermelho</span>
-    </head>
+    <head>
     <body>
         <p><span style="color:blue;">Olá eu me chamo Itallo<br>
           Estou atualmente me aprofundando em Python e já posso ser considerado um iniciante<br><br>
